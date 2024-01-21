@@ -1,0 +1,18 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "C:\Users\sanja\OneDrive\Desktop\Web Develop Projects\World Capital Quiz\index.js",
+        "use": "@vercel/node"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/"
+      }
+    ],
+
+    "public": true
+  }
+  
