@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
       {
-        "src": "C:\Users\sanja\OneDrive\Desktop\Web Develop Projects\World Capital Quiz\index.js",
+        "src": "./index.js",
         "use": "@vercel/node"
       }
     ],
